@@ -1,6 +1,6 @@
 # 🛠️ System Maintenance Script
 
-This project combines:
+This project:
 - System Health Monitoring
 - Log File Cleaning
 
